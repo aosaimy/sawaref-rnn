@@ -1,0 +1,1504 @@
+# sent_id = 4
+# text = امرىء ما نوى , فمن كانت هجرته إلى الله ورسوله , فهجرته إلى الله ورسوله , ومن كانت هجرته لدنيا
+1	امرىء	امرىء	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	_
+2	ما	ما	PRON	REL	_	0	_	_	_
+3	نوى	نوى±intend;consider	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/3|FROM_MA=true|TOOL=MX|WID=10
+4	,	,	PUNCT	_	_	0	_	_	_
+5-6	فمن	_	_	_	_	_	_	_	_
+5	ف	_	PART	REM	_	0	_	_	_
+6	من	من	PART	COND	_	0	_	_	_
+7	كانت	كان±was;were	VERB	V	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=13
+8-9	هجرته	_	_	_	_	_	_	_	_
+8	هجرة	هجرت	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+9	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+10	إلى	إلى	ADP	P	_	0	_	_	_
+11	الله	الله±Allah;God	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true|TOOL=MX|WID=16
+12-14	ورسوله	_	_	_	_	_	_	_	_
+12	و	_	CCONJ	CONJ	_	0	_	_	_
+13	رسول	رسول	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+14	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+15	,	_	PUNCT	PUNC	_	0	_	_	FROM_MA=true|TOOL=MX|WID=18
+16-18	فهجرته	_	_	_	_	_	_	_	_
+16	ف	فهجرت	PART	RSLT	_	0	_	_	_
+17	هجرة	فهجرت	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+18	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+19	إلى	إلى	ADP	P	_	0	_	_	_
+20	الله	الله±Allah;God	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true|TOOL=MX|WID=16
+21-23	ورسوله	_	_	_	_	_	_	_	_
+21	و	_	CCONJ	CONJ	_	0	_	_	_
+22	رسول	رسول	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+23	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+24	,	_	PUNCT	PUNC	_	0	_	_	FROM_MA=true|TOOL=MX|WID=18
+25-26	ومن	_	_	_	_	_	_	_	_
+25	و	_	CCONJ	CONJ	_	0	_	_	_
+26	من	من	PART	COND	_	0	_	_	_
+27	كانت	كان±was;were	VERB	V	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=13
+28-29	هجرته	_	_	_	_	_	_	_	_
+28	هجرة	هجرت	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+29	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+30-31	لدنيا	_	_	_	_	0	_	_	FROM_MA=true
+30	ل	_	ADP	P	_	0	_	_	ANALSIS#=2/8|FROM_MA=true|TOOL=MX|WID=27
+31	دنيا	دنيا±world;near;low;inferior	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=2/8|FROM_MA=true|TOOL=MX|WID=27
+
+# sent_id = 5
+# text = يصيبها , أو امرأة ينكحها , فهجرته إلى ما هاجر إليه " . متفق على صحته . رواه إماما المحدثين
+1-2	يصيبها	_	_	_	_	0	_	_	FROM_MA=true
+1	يصيب	صيب±strike;afflict	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=28
+2	ها	صيب±strike;afflict	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	_	_	FROM_MA=true|TOOL=MX|WID=28
+3	,	_	PUNCT	PUNC	_	0	_	_	FROM_MA=true|TOOL=MX|WID=29
+4	أو	أو	CCONJ	CONJ	_	0	_	_	_
+5	امرأة	امرأت	NOUN	N	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	0	_	_	_
+6-7	ينكحها	_	_	_	_	_	_	_	_
+6	ينكح	نكحهى	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+7	ها	صيب±strike;afflict	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	_	_	FROM_MA=true|TOOL=MX|WID=28
+8	,	_	PUNCT	PUNC	_	0	_	_	FROM_MA=true|TOOL=MX|WID=33
+9-11	فهجرته	_	_	_	_	_	_	_	_
+9	ف	فهجرت	PART	RSLT	_	0	_	_	_
+10	هجرة	فهجرت	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+11	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+12	إلى	إلى	ADP	P	_	0	_	_	_
+13	ما	ما±what	PRON	REL	Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|DOCID=P224.conllu|ELEMID=11|FROM_MA=true|SENT=حتى±يحب±لأخيه±ما±يحب±لنفسه±"|SENTID=S3|TOOL=MX|WID=8
+14	هاجر	هاجر±emigrate	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=37
+15-16	إليه	_	_	_	_	_	_	_	_
+15	إلى	إلى	ADP	P	_	0	_	_	_
+16	ه	_	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+17	"	_	PUNCT	PUNC	_	0	_	_	FROM_MA=true|TOOL=MX|WID=39
+18	.	_	PUNCT	PUNC	_	0	_	_	FROM_MA=true|TOOL=MX|WID=40
+19	متفق	متفق±agreed	ADJ	ADJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Voice=Act	0	_	_	ANALSIS#=1/12|FROM_MA=true|TOOL=MX|WID=1
+20	على	على	ADP	P	_	0	_	_	_
+21-22	صحته	_	_	_	_	_	_	_	_
+21	صحة	صحت	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+22	ه	_	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+23	.	_	PUNCT	PUNC	_	0	_	_	FROM_MA=true|TOOL=MX|WID=40
+24-25	رواه	_	_	_	_	_	_	_	_
+24	روى	_	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+25	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+26	إماما	إمام	NOUN	N	Case=Nom|Definite=Cons|Gender=Masc|Number=Dual	0	_	_	_
+27-28	المحدثين	_	_	_	_	_	_	_	_
+27	ال	المحدثين	DET	DET	_	0	_	_	_
+28	محدثين	المحدثين	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	0	_	_	_
+
+# ±±± id = /morpho/output/fourty-P21/HD
+# update Time=03:08:06|from=Tue May 01 2018 16:09:23 GMT+0100 (BST)|to=Tue May 01 2018 16:09:34 GMT+0100 (BST)|T=11286|stats=keyboard=6|highlight=S1:17
+# update Time=02:07:31|from=Tue May 01 2018 16:08:18 GMT+0100 (BST)|to=Tue May 01 2018 16:08:26 GMT+0100 (BST)|T=7651|stats=keyboard=5|tag_morphofeatures=1|highlight=S1:15
+# done from=Tue Apr 17 2018 12:14:04 GMT+0100 (BST)|to=Tue Apr 17 2018 12:29:21 GMT+0100 (BST)|T=917211|stats=mouse=82|keyboard=380|tag_morphofeatures=57|showGuider=42|tag_ma=2|highlight=S3:4
+# notdone from=Tue Apr 17 2018 12:14:04 GMT+0100 (BST)|to=Tue Apr 17 2018 12:23:48 GMT+0100 (BST)|T=584812|stats=mouse=22|keyboard=201|tag_morphofeatures=41|showGuider=14|tag_ma=2|highlight=S2:36
+# newdoc id = /morpho/output/fourty-P21/SOURCE
+# newpar
+# sent_id = 47
+# text = وعن أبي العباس عبد الله بن عباس بن عبد المطلب رضي الله عنهما , عن رسول الله - صلى الله
+1-2	وعن	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	FROM=PASTE
+2	عن	عن	ADP	P	_	0	_	_	_
+3	أبي	أب	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+4	العباس	العباس	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+5	عبد	عبد	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+6	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+7	بن	بنى	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+8	عباس	عباس	PROPN	PN	Case=Gen|Gender=Masc|Number=Plur	0	_	_	_
+9	بن	بنى	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+10	عبد	عبد	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+11	المطلب	المطلب	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+12	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+13	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+14-15	عنهما	_	_	_	_	_	_	_	_
+14	عن	عن	ADP	P	_	0	_	_	_
+15	هما	_	PRON	PRON	Case=Gen|Gender=Neut|Number=Dual|Person=3	0	_	_	_
+16	,	,	PUNCT	PUNC	_	0	_	_	_
+17	عن	عن	ADP	P	_	0	_	_	_
+18	رسول	رسول	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+19	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+20	-	-	PUNCT	PUNC	_	0	_	_	_
+21	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+22	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+
+# sent_id = 52
+# text = 2 )
+1	2	2	NUM	NUM	Gender=Neut	0	_	_	_
+2	)	_	PUNCT	PUNC	_	0	_	_	SpacesAfter=\n
+
+# sent_id = 80
+# text = 2 )
+1	2	2	NUM	NUM	Gender=Neut	0	_	_	_
+2	)	_	PUNCT	PUNC	_	0	_	_	SpacesAfter=\n
+
+# sent_id = 19
+# text = , عن الله تبارك وتعالى , أنه قال : " يا عبادي , إني حرمت الظلم على نفسي وجعلته بينكم
+1	,	,	PUNCT	PUNC	_	0	_	_	_
+2	عن	عن	ADP	P	_	0	_	_	_
+3	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+4	تبارك	تبارك	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+5-6	وتعالى	_	_	_	_	_	_	_	_
+5	و	وتعالى	CCONJ	CONJ	_	0	_	_	_
+6	تعالى	وتعالى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+7	,	,	PUNCT	PUNC	_	0	_	_	_
+8-9	أنه	_	_	_	_	_	_	_	_
+8	أن	إن	PART	ACC	_	0	_	_	_
+9	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+10	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+11	:	_	PUNCT	PUNC	_	0	_	_	_
+12	"	_	PUNCT	PUNC	_	0	_	_	_
+13	يا	_	PART	VOC	_	0	_	_	_
+14-15	عبادي	_	_	_	_	_	_	_	_
+14	عباد	عبادي	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Plur	0	_	_	_
+15	ي	عبادي	PRON	PRON	Case=Gen|Gender=Neut|Number=Unsp|Person=1	0	_	_	_
+16	,	,	PUNCT	PUNC	_	0	_	_	_
+17-18	إني	_	_	_	_	0	_	_	FROM_MA=true
+17	إن	إن±that;indeed	PART	ACC	_	0	_	_	ANALSIS#=2/13|FROM_MA=true|TOOL=MX|WID=5
+18	ني	_	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=1	0	_	_	ANALSIS#=2/13|FROM_MA=true|TOOL=MX|WID=5
+19-20	حرمت	_	_	_	_	_	_	_	_
+19	حرم	حرم	VERB	V	Aspect=Perf|Gender=Neut|Mood=Unsp|Number=Plur|Person=1|Voice=Act	0	_	_	_
+20	ت	_	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=1	0	_	_	_
+21-22	الظلم	_	_	_	_	0	_	_	FROM_MA=true
+21	ال	_	DET	DET	_	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=7
+22	ظلم	ظلم±injustice	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=7
+23	على	عليا	ADP	P	_	0	_	_	_
+24-25	نفسي	_	_	_	_	0	_	_	FROM_MA=true
+24	نفس	نفس±same;self	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/9|FROM_MA=true|TOOL=MX|WID=9
+25	ي	_	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=1	0	_	_	ANALSIS#=1/9|FROM_MA=true|TOOL=MX|WID=9
+26-29	وجعلته	_	_	_	_	_	_	_	_
+26	و	وتعالى	CCONJ	CONJ	_	0	_	_	_
+27	جعل	وجعل	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=Unsp|Voice=Act	0	_	_	_
+28	ت	_	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=1	0	_	_	_
+29	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+30-31	بينكم	_	_	_	_	_	_	_	_
+30	بين	بين	ADV	LOC	_	0	_	_	_
+31	كم	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=2	0	_	_	_
+
+# sent_id = 38
+# text = طريق الناس , أو أمر بمعروف , أو نهى عن منكر , عدد الستين والثلاثمائة فإنه يمسي يومئذ وقد زحزح
+1	طريق	طريق	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+2-3	الناس	_	_	_	_	_	_	_	_
+2	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=34
+3	ناس	ناس±people	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=34
+4	,	_	PUNCT	PUNC	_	0	_	_	_
+5	أو	أو	CCONJ	CONJ	_	0	_	_	_
+6	أمر	أمر±command;order;prescribe	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=23/29|FROM_MA=true|TOOL=MX|WID=46
+7-8	بمعروف	_	_	_	_	_	_	_	_
+7	ب	_	ADP	P	_	0	_	_	_
+8	معروف	معروف	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	_
+9	,	_	PUNCT	PUNC	_	0	_	_	_
+10	أو	أو	CCONJ	CONJ	_	0	_	_	_
+11	نهى	نهى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=23/29|FROM_MA=true|TOOL=MX|WID=46
+12	عن	عن	ADP	P	_	0	_	_	_
+13	منكر	منكر	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	_
+14	,	_	PUNCT	PUNC	_	0	_	_	_
+15	عدد	عدد±number;quantity;issue	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/7|FROM_MA=true|TOOL=MX|WID=54
+16	الستين	الستين	NOUN	N	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	0	_	_	_
+17-18	والثلاثمائة	_	_	_	_	_	_	_	_
+17	و	ءوالثلاثماية	NOUN	N	Case=Gen|Gender=Fem|Number=Sing	0	_	_	_
+18	الثلاثمائة	ءوالثلاثماية	NOUN	N	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	0	_	_	_
+19-21	فإنه	_	_	_	_	0	_	_	FROM_MA=true
+19	ف	_	PART	REM	_	0	_	_	ANALSIS#=1/16|FROM_MA=true|TOOL=MX|WID=57
+20	إن	إن±that;indeed	PART	ACC	_	0	_	_	ANALSIS#=1/16|FROM_MA=true|TOOL=MX|WID=57
+21	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=1/16|FROM_MA=true|TOOL=MX|WID=57
+22	يمسي	أمسى	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+23	يومئذ	يومئذ	ADV	T	_	0	_	_	_
+24-25	وقد	_	_	_	_	_	_	_	_
+24	و	_	CCONJ	CONJ	_	0	_	_	_
+25	قد	قد	PART	CERT	_	0	_	_	_
+26	زحزح	زحزح	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Pass	0	_	_	_
+
+# sent_id = 39
+# text = نفسه عن النار " .
+1-2	نفسه	_	_	_	_	_	_	_	_
+1	نفس	نفس	NOUN	N	Case=Acc|Definite=Cons|Gender=Fem|Number=Sing	0	_	_	_
+2	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+3	عن	عن	ADP	P	_	0	_	_	_
+4-5	النار	_	_	_	_	0	_	_	FROM_MA=true
+4	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=64
+5	نار	نار±fire	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=64
+6	"	_	PUNCT	PUNC	_	0	_	_	_
+7	.	_	PUNCT	PUNC	_	0	_	_	SpacesAfter=\n
+
+# ±±± id = /morpho/output/fourty-P224/HD
+# done from=Tue Apr 17 2018 17:54:50 GMT+0100 (BST)|to=Tue Apr 17 2018 18:00:57 GMT+0100 (BST)|T=367201|stats=keyboard=174|tag_morphofeatures=22|showGuider=19|mouse=1|tag_ma=2|changeWith=2|highlight=S7:1
+# newdoc id = /morpho/output/fourty-P224/SOURCE
+# newpar
+# sent_id = 56
+# text = الثالث : عن أنس - رضي الله عنه - عن النبي - صلى الله عليه وسلم - قال : "
+1-2	الثالث	_	_	_	_	_	_	_	_
+1	ال	ثلالثا	DET	DET	_	0	_	_	_
+2	ثالث	ثلالثا	ADJ	ADJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Voice=Act	0	_	_	_
+3	:	_	PUNCT	PUNC	_	0	_	_	_
+4	عن	عن	ADP	P	_	0	_	_	_
+5	أنس	إنس	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+6	-	_	PUNCT	PUNC	_	0	_	_	_
+7	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+8	الله	الله±Allah;God	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+9-10	عنه	_	_	_	_	_	_	_	_
+9	عن	عن	ADP	P	_	0	_	_	_
+10	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+11	-	_	PUNCT	PUNC	_	0	_	_	_
+12	عن	عن	ADP	P	_	0	_	_	_
+13-14	النبي	_	_	_	_	_	_	_	_
+13	ال	النبي	DET	DET	_	0	_	_	_
+14	نبي	النبي	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	_	_	_
+15	-	-	PUNCT	PUNC	_	0	_	_	_
+16	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+17	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+18-19	عليه	_	_	_	_	_	_	_	_
+18	على	على	ADP	P	_	0	_	_	_
+19	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+20-21	وسلم	_	_	_	_	_	_	_	_
+20	و	_	CCONJ	CONJ	_	0	_	_	_
+21	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+22	-	-	PUNCT	PUNC	_	0	_	_	_
+23	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+24	:	_	PUNCT	PUNC	_	0	_	_	_
+25	"	_	PUNCT	PUNC	_	0	_	_	_
+
+# sent_id = 74
+# text = السكينة , وغشيتهم الرحمة , وحفتهم الملائكة , وذكرهم الله فيمن عنده . ومن بطأ به عمله لم يسرع به
+1-2	السكينة	_	_	_	_	0	_	_	FROM_MA=true
+1	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/8|FROM_MA=true|TOOL=MX|WID=20
+2	سكينة	سكين±tranquillity	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	_	_	ANALSIS#=1/8|FROM_MA=true|TOOL=MX|WID=20
+3	,	_	PUNCT	PUNC	_	0	_	_	_
+4-6	وغشيتهم	_	_	_	_	0	_	_	FROM_MA=true
+4	و	_	X	_	_	0	_	_	ANALSIS#=15/33|FROM_MA=true|TOOL=MX|WID=22
+5	غشيت	غشي±cover;overcome	VERB	V	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=15/33|FROM_MA=true|TOOL=MX|WID=22
+6	هم	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3	0	_	_	ANALSIS#=15/33|FROM_MA=true|TOOL=MX|WID=22
+7-8	الرحمة	_	_	_	_	0	_	_	FROM_MA=true
+7	ال	_	DET	DET	_	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=23
+8	رحمة	رحم±compassion;mercy	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=23
+9	,	_	PUNCT	PUNC	_	0	_	_	_
+10-12	وحفتهم	_	_	_	_	0	_	_	FROM_MA=true
+10	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=5/7|FROM_MA=true|TOOL=MX|WID=25
+11	حفت	حف±surround;line	VERB	V	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=5/7|FROM_MA=true|TOOL=MX|WID=25
+12	هم	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3	0	_	_	ANALSIS#=5/7|FROM_MA=true|TOOL=MX|WID=25
+13-14	الملائكة	_	_	_	_	0	_	_	DOCID=fourtyB-P1188.conllu|ELEMID=2-3|FROM_MA=true|SENT="±الملائكة±تصلي±على±أحدكم|SENTID=S3
+13	ال	_	DET	DET	_	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=2
+14	ملائكة	ملائك±angels	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	0	_	_	ANALSIS#=2/4|DOCID=fourtyB-P1188.conllu|ELEMID=3|FROM_MA=true|SENT="±الملائكة±تصلي±على±أحدكم|SENTID=S3|TOOL=MX|WID=2
+15	,	_	PUNCT	PUNC	_	0	_	_	_
+16-18	وذكرهم	_	_	_	_	0	_	_	FROM_MA=true
+16	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/30|FROM_MA=true|TOOL=MX|WID=28
+17	ذكر	ذكر±mention;cite;remember	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/30|FROM_MA=true|TOOL=MX|WID=28
+18	هم	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3	0	_	_	ANALSIS#=1/30|FROM_MA=true|TOOL=MX|WID=28
+19	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	DOCID=P11.conllu|ELEMID=44|FROM_MA=true|SENT=العدوي±-±رضي±الله±عنه±-±قال|SENTID=S1
+20-21	فيمن	_	_	_	_	_	_	_	_
+20	في	فى	ADP	P	_	0	_	_	NOTE=Diff_between_CA_and_MSA
+21	من	من	PRON	REL	_	0	_	_	_
+22-23	عنده	_	_	_	_	0	_	_	DOCID=P21.conllu|ELEMID=32-33|FROM_MA=true|SENT=الله±تبارك±وتعالى±عنده±حسنة±كاملة±,|SENTID=S2
+22	عند	عند	ADV	LOC	_	0	_	_	DOCID=P21.conllu|ELEMID=32|FROM_MA=true|SENT=الله±تبارك±وتعالى±عنده±حسنة±كاملة±,|SENTID=S2
+23	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	FROM_MA=true
+24	.	_	PUNCT	PUNC	_	0	_	_	_
+25-26	ومن	_	_	_	_	0	_	_	DOCID=P11.conllu|ELEMID=36-37|FROM_MA=true|SENT=الله±ورسوله±,±ومن±كانت±هجرته±لدنيا|SENTID=S3
+25	و	_	CCONJ	CONJ	_	0	_	_	FROM_MA=true
+26	من	من	PART	COND	_	0	_	_	FROM_MA=true
+27	بطأ	بطأ±delay;retard	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=2
+28-29	به	_	_	_	_	0	_	_	DOCID=P123.conllu|ELEMID=60-61|FROM_MA=true|SENT=سمعه±الذي±يسمع±به±,±وبصره±الذي|SENTID=S3
+28	ب	_	ADP	P	_	0	_	_	FROM_MA=true
+29	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	FROM_MA=true
+30-31	عمله	_	_	_	_	0	_	_	FROM_MA=true
+30	عمل	عمل±work;action	NOUN	N	Case=Nom|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/19|FROM_MA=true|TOOL=MX|WID=4
+31	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=3/19|FROM_MA=true|TOOL=MX|WID=4
+32	لم	لم	PART	NEG	_	0	_	_	_
+33	يسرع	يسرع	VERB	V	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Act	0	_	_	_
+34-35	به	_	_	_	_	0	_	_	DOCID=P123.conllu|ELEMID=60-61|FROM_MA=true|SENT=سمعه±الذي±يسمع±به±,±وبصره±الذي|SENTID=S3
+34	ب	_	ADP	P	_	0	_	_	FROM_MA=true
+35	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	FROM_MA=true
+
+# sent_id = 83
+# text = الزكاة , فإذا فعلوا ذلك عصموا مني دماءهم وأموالهم إلا بحق الإسلام , وحسابهم على الله تعالى " . متفق
+1-2	الزكاة	_	_	_	_	0	_	_	FROM_MA=true
+1	ال	_	DET	DET	_	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=8
+2	زكاة	زكا±alms;charity	NOUN	N	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=8
+3	,	,	PUNCT	PUNC	_	0	_	_	_
+4-5	فإذا	_	_	_	_	_	_	_	_
+4	ف	_	PART	REM	_	0	_	_	_
+5	إذا	إذا	ADV	T	_	0	_	_	_
+6-7	فعلوا	_	_	_	_	_	_	_	_
+6	فعل	فعل±do;act	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Plur|Person=3|Voice=Act	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=11
+7	وا	_	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2	0	_	_	_
+8	ذلك	ذلك±that	PRON	DEM	Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/9|FROM_MA=true|TOOL=MX|WID=12
+9-10	عصموا	_	_	_	_	_	_	_	_
+9	عصم	عصم±safeguard;preserve	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Plur|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=13
+10	وا	_	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2	0	_	_	_
+11-12	مني	_	_	_	_	0	_	_	FROM_MA=true
+11	من	من±from	ADP	P	_	0	_	_	ANALSIS#=1/7|FROM_MA=true|TOOL=MX|WID=14
+12	ني	_	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=1	0	_	_	ANALSIS#=1/7|FROM_MA=true|TOOL=MX|WID=14
+13-14	دماءهم	_	_	_	_	0	_	_	FROM_MA=true
+13	دماء	دماء±blood	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=15
+14	هم	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=15
+15-17	وأموالهم	_	_	_	_	0	_	_	FROM_MA=true
+15	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=5/12|FROM_MA=true|TOOL=MX|WID=16
+16	أموال	أموال±assets;capital;funds	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=5/12|FROM_MA=true|TOOL=MX|WID=16
+17	هم	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3	0	_	_	ANALSIS#=5/12|FROM_MA=true|TOOL=MX|WID=16
+18	إلا	إلا	PART	RES	_	0	_	_	_
+19-20	بحق	_	_	_	_	_	_	_	_
+19	ب	_	ADP	P	_	0	_	_	_
+20	حق	حق	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+21-22	الإسلام	_	_	_	_	0	_	_	FROM_MA=true
+21	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=19
+22	إسلام	إسلام±Islam	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=19
+23	,	_	PUNCT	PUNC	_	0	_	_	_
+24-26	وحسابهم	_	_	_	_	0	_	_	FROM_MA=true
+24	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=8/24|FROM_MA=true|TOOL=MX|WID=21
+25	حساب	حساب±invoice;expense;account	NOUN	N	Case=Nom|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=8/24|FROM_MA=true|TOOL=MX|WID=21
+26	هم	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3	0	_	_	ANALSIS#=8/24|FROM_MA=true|TOOL=MX|WID=21
+27	على	على	ADP	P	_	0	_	_	_
+28	الله	الله±Allah;God	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true|TOOL=MX|WID=23
+29	تعالى	تعلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+30	"	_	PUNCT	PUNC	_	0	_	_	_
+31	.	_	PUNCT	PUNC	_	0	_	_	_
+32	متفق	متفق±agreed	ADJ	ADJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Voice=Pass	0	_	_	ANALSIS#=1/12|FROM_MA=true|TOOL=MX|WID=1
+
+# ±±± id = /morpho/output/fourty-P466/HD
+# done from=Thu Apr 26 2018 16:15:12 GMT+0100 (BST)|to=Thu Apr 26 2018 16:27:07 GMT+0100 (BST)|T=715069|stats=mouse=58|keyboard=287|showGuider=49|tag_morphofeatures=26|tag_ma=23|changeWith=19|highlight=S9:2
+# notdone from=Wed Apr 25 2018 16:20:21 GMT+0100 (BST)|to=Wed Apr 25 2018 16:36:09 GMT+0100 (BST)|T=947758|stats=keyboard=463|showGuider=44|tag_ma=37|changeWith=30|tag_morphofeatures=48|highlight=S5:15
+# newdoc id = /morpho/output/fourty-P466/SOURCE
+# newpar
+# sent_id = 85
+# text = وأما الأحاديث فكثيرة جدا فنذكر منها طرفا وبالله التوفيق : عن ابن مسعود - رضي الله عنه - قال :
+1-2	وأما	_	_	_	_	0	_	_	DOCID=P123.conllu|ELEMID=1-2|FROM_MA=true|SENT=وأما±الأحاديث±:±فالأول|SENTID=S1
+1	و	واما	CCONJ	CONJ	_	0	_	_	FROM_MA=true
+2	أما	واما	PART	EXL	_	0	_	_	DOCID=P123.conllu|ELEMID=2|FROM_MA=true|SENT=وأما±الأحاديث±:±فالأول|SENTID=S1
+3-4	الأحاديث	_	_	_	_	0	_	_	DOCID=P123.conllu|ELEMID=3-4|FROM_MA=true|SENT=وأما±الأحاديث±:±فالأول±:|SENTID=S1
+3	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/8|FROM_MA=true|TOOL=MX|WID=2
+4	أحاديث	أحاديث±discussions;talks	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/8|DOCID=P123.conllu|ELEMID=4|FROM_MA=true|SENT=وأما±الأحاديث±:±فالأول±:|SENTID=S1|TOOL=MX|WID=2
+5-6	فكثيرة	_	_	_	_	0	_	_	FROM_MA=true
+5	ف	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/11|FROM_MA=true|TOOL=MX|WID=3
+6	كثيرة	كثير±many;much;numerous	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	_	_	ANALSIS#=1/11|FROM_MA=true|TOOL=MX|WID=3
+7	جدا	جد±seriousness;earnestness	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/7|FROM_MA=true|TOOL=MX|WID=4
+8-9	فنذكر	_	_	_	_	0	_	_	FROM_MA=true
+8	ف	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/5|FROM_MA=true|TOOL=MX|WID=5
+9	نذكر	ذكر±mention;cite;remember	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=1|Voice=Act	0	_	_	ANALSIS#=1/5|FROM_MA=true|TOOL=MX|WID=5
+10-11	منها	_	_	_	_	0	_	_	FROM_MA=true
+10	من	من±from	ADP	P	_	0	_	_	FROM_MA=true|TOOL=MX|WID=6
+11	ها	_	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3	0	_	_	FROM_MA=true|TOOL=MX|WID=6
+12	طرفا	طرف±party;side	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=7
+13-15	وبالله	_	_	_	_	0	_	_	FROM_MA=true
+13	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/3|FROM_MA=true|TOOL=MX|WID=8
+14	ب	_	ADP	P	_	0	_	_	ANALSIS#=1/3|FROM_MA=true|TOOL=MX|WID=8
+15	الله	بالله±by_God;Allah	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/3|FROM_MA=true|TOOL=MX|WID=8
+16-17	التوفيق	_	_	_	_	0	_	_	FROM_MA=true
+16	ال	_	DET	DET	_	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=9
+17	توفيق	توفيق±success;successful_outcome;conformation	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=9
+18	:	_	PUNCT	PUNC	_	0	_	_	_
+19	عن	عن	ADP	P	_	0	_	_	_
+20	ابن	ابن±son	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+21	مسعود	مسعود	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+22	-	-	PUNCT	PUNC	_	0	_	_	_
+23	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+24	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+25-26	عنه	_	_	_	_	_	_	_	_
+25	عن	عن	ADP	P	_	0	_	_	_
+26	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+27	-	-	PUNCT	PUNC	_	0	_	_	_
+28	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+29	:	_	PUNCT	PUNC	_	0	_	_	_
+
+# sent_id = 109
+# text = : " إن الحلال بين , وإن الحرام بين , وبينهما مشتبهات لا يعلمهن كثير من الناس , فمن اتقى
+1	:	_	PUNCT	PUNC	_	0	_	_	_
+2	"	_	PUNCT	PUNC	_	0	_	_	_
+3	إن	إن	PART	ACC	_	0	_	_	_
+4-5	الحلال	_	_	_	_	0	_	_	FROM_MA=true
+4	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=14
+5	حلال	حلال±permissible;legitimate	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=14
+6	بين	بين±clear;evident;explicit	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=8/13|FROM_MA=true|TOOL=MX|WID=15
+7	,	_	PUNCT	PUNC	_	0	_	_	_
+8-9	وإن	_	_	_	_	_	_	_	_
+8	و	_	CCONJ	CONJ	_	0	_	_	_
+9	إن	إن	PART	ACC	_	0	_	_	_
+10-11	الحرام	_	_	_	_	0	_	_	FROM_MA=true
+10	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/8|FROM_MA=true|TOOL=MX|WID=18
+11	حرام	حرام±sin;offense	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/8|FROM_MA=true|TOOL=MX|WID=18
+12	بين	بين±clear;evident;explicit	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=8/13|FROM_MA=true|TOOL=MX|WID=15
+13	,	_	PUNCT	PUNC	_	0	_	_	_
+14-16	وبينهما	_	_	_	_	0	_	_	DOCID=qac007-04|ELEMID=1-3|FROM_MA=true|SENT=وبينهما±حجاب±وعلى±الأعراف|SENTID=S7
+14	و	_	PART	REM	_	0	_	_	FROM_MA=true|TOOL=QA|TYPE=PREFIX|WID=1
+15	بين	بين	ADV	LOC	_	0	_	_	FROM_MA=true|TOOL=QA|TYPE=STEM|WID=1
+16	هما	_	PRON	PRON	Case=Gen|Gender=Neut|Number=Dual|Person=3	0	_	_	FROM_MA=true|TOOL=QA|TYPE=SUFFIX|WID=1
+17	مشتبهات	مشتبهات	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	0	_	_	_
+18	لا	لا	PART	NEG	_	0	_	_	_
+19-20	يعلمهن	_	_	_	_	0	_	_	FROM_MA=true
+19	يعلم	علم±know;find_out	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/3|FROM_MA=true|TOOL=MX|WID=24
+20	هن	_	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3	0	_	_	ANALSIS#=1/3|FROM_MA=true|TOOL=MX|WID=24
+21	كثير	كثير	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	_
+22	من	من	ADP	P	_	0	_	_	_
+23-24	الناس	_	_	_	_	0	_	_	FROM_MA=true
+23	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=27
+24	ناس	ناس±people	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=27
+25	,	,	PUNCT	PUNC	_	0	_	_	_
+26-27	فمن	_	_	_	_	_	_	_	_
+26	ف	_	PART	REM	_	0	_	_	_
+27	من	من	PART	COND	_	0	_	_	_
+28	اتقى	اتقى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+
+# sent_id = 115
+# text = " دع ما يريبك إلى ما لا يريبك " . رواه الترمذي , ( 1 ) وقال : " حديث
+1	"	_	PUNCT	PUNC	_	0	_	_	_
+2	دع	دعا	VERB	V	Aspect=Impv|Gender=Masc|Mood=Unsp|Number=Sing|Person=2|Voice=Unsp	0	_	_	_
+3	ما	فيما	PRON	REL	_	0	_	_	_
+4-5	يريبك	_	_	_	_	0	_	_	FROM_MA=true
+4	يريب	ريب±elicit_doubts;cast_suspicion_on;question	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=5/6|FROM_MA=true|TOOL=MX|WID=14
+5	ك	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=2	0	_	_	ANALSIS#=5/6|FROM_MA=true|TOOL=MX|WID=14
+6	إلى	إلى	ADP	P	_	0	_	_	_
+7	ما	ما	PRON	REL	_	0	_	_	_
+8	لا	لا	PART	NEG	_	0	_	_	_
+9-10	يريبك	_	_	_	_	_	_	_	_
+9	يريب	ريب±elicit_doubts;cast_suspicion_on;question	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=5/6|FROM_MA=true|TOOL=MX|WID=14
+10	ك	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=2	0	_	_	ANALSIS#=5/6|FROM_MA=true|TOOL=MX|WID=14
+11	"	_	PUNCT	PUNC	_	0	_	_	_
+12	.	_	PUNCT	PUNC	_	0	_	_	_
+13-14	رواه	_	_	_	_	0	_	_	DOCID=P123.conllu|ELEMID=1-2|FROM_MA=true|SENT=رواه±البخاري±.|SENTID=S4
+13	روى	_	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+14	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=1/9|DOCID=P123.conllu|ELEMID=2|FROM_MA=true|SENT=رواه±البخاري±.|SENTID=S4|TOOL=MX|WID=1
+15-16	الترمذي	_	_	_	_	0	_	_	DOCID=fourtyB-P1392.conllu|ELEMID=3-4|FROM_MA=true|SENT=رواه±الترمذي±,±(±1|SENTID=S3
+15	ال	_	DET	DET	_	0	_	_	FROM_MA=true|TOOL=MX|WID=2
+16	ترمذي	ترمذي±Tirmidhi	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	DOCID=fourtyB-P1392.conllu|ELEMID=4|FROM_MA=true|SENT=رواه±الترمذي±,±(±1|SENTID=S3|TOOL=MX|WID=2
+17	,	_	PUNCT	PUNC	_	0	_	_	_
+18	(	_	PUNCT	PUNC	_	0	_	_	_
+19	1	_	NUM	NUM	Gender=Neut	0	_	_	_
+20	)	_	PUNCT	PUNC	_	0	_	_	_
+21-22	وقال	_	_	_	_	_	_	_	_
+21	و	_	CCONJ	CONJ	_	0	_	_	_
+22	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+23	:	_	PUNCT	PUNC	_	0	_	_	_
+24	"	_	PUNCT	PUNC	_	0	_	_	_
+25	حديث	حديث±discussion;talk;interview	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	_
+
+# ±±± id = /morpho/output/fourty-P734/HD
+# done from=Fri Apr 27 2018 16:52:04 GMT+0100 (BST)|to=Fri Apr 27 2018 16:59:42 GMT+0100 (BST)|T=457968|stats=mouse=5|showGuider=26|keyboard=178|tag_morphofeatures=23|tag_ma=16|changeWith=14|highlight=S4:3
+# newdoc id = /morpho/output/fourty-P734/SOURCE
+# newpar
+# sent_id = 120
+# text = وعن أبي يعلى شداد بن أوس - رضي الله عنه - عن رسول الله - صلى الله عليه وسلم -
+1-2	وعن	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	FROM=PASTE
+2	عن	عن	ADP	P	_	0	_	_	_
+3	أبي	أب	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+4	يعلى	يعلى	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+5	شداد	شداد±Shaddad	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/13|FROM_MA=true|TOOL=MX|WID=4
+6	بن	بنى	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+7	أوس	اوس	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+8	-	-	PUNCT	PUNC	_	0	_	_	_
+9	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+10	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+11-12	عنه	_	_	_	_	_	_	_	_
+11	عن	عن	ADP	P	_	0	_	_	_
+12	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+13	-	-	PUNCT	PUNC	_	0	_	_	_
+14	عن	عن	ADP	P	_	0	_	_	_
+15	رسول	رسول	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+16	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+17	-	-	PUNCT	PUNC	_	0	_	_	_
+18	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+19	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+20-21	عليه	_	_	_	_	0	_	_	DOCID=P123.conllu|ELEMID=27-28|FROM_MA=true|SENT=-±صلى±الله±عليه±وسلم±:|SENTID=S1
+20	على	على	ADP	P	_	0	_	_	FROM_MA=true
+21	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	FROM_MA=true
+22-23	وسلم	_	_	_	_	_	_	_	_
+22	و	_	CCONJ	CONJ	_	0	_	_	_
+23	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+24	-	-	PUNCT	PUNC	_	0	_	_	_
+
+# ±±± id = /morpho/output/fourty-P2038/HD
+# done from=Mon Apr 16 2018 14:32:40 GMT+0100 (BST)|to=Mon Apr 16 2018 14:44:02 GMT+0100 (BST)|T=682465|stats=mouse=32|keyboard=338|tag_ma=4|changeWith=3|showGuider=47|tag_morphofeatures=46|highlight=S5:3
+# newdoc id = /morpho/output/fourty-P2038/SOURCE
+# newpar
+# sent_id = 40
+# text = وعن أبي ثعلبة الخشني جرثوم بن ناشر - رضي الله عنه - عن رسول الله - صلى الله عليه وسلم
+1-2	وعن	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	FROM=PASTE
+2	عن	عن	ADP	P	_	0	_	_	_
+3	أبي	أب	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+4	ثعلبة	ثعلبة	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+5-6	الخشني	_	_	_	_	_	_	_	_
+5	ال	الخشني	DET	DET	_	0	_	_	_
+6	خشني	الخشني	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+7	جرثوم	جرثوم	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+8	بن	بنى	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+9	ناشر	ناشر	PROPN	PN	Case=Acc|Gender=Masc|Number=Sing	0	_	_	_
+10	-	_	PUNCT	PUNC	_	0	_	_	_
+11	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+12	الله	الله±Allah;God	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+13-14	عنه	_	_	_	_	_	_	_	_
+13	عن	عن	ADP	P	_	0	_	_	_
+14	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+15	-	_	PUNCT	PUNC	_	0	_	_	_
+16	عن	عن	ADP	P	_	0	_	_	_
+17	رسول	رسول	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+18	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+19	-	-	PUNCT	PUNC	_	0	_	_	_
+20	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+21	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+22-23	عليه	_	_	_	_	_	_	_	_
+22	على	على	ADP	P	_	0	_	_	_
+23	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1	0	_	_	_
+24-25	وسلم	_	_	_	_	_	_	_	_
+24	و	_	CCONJ	CONJ	_	0	_	_	_
+25	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+
+# sent_id = 145
+# text = كان في سفر , فعرس بليل اضطجع على يمينه , وإذا عرس قبيل الصبح نصب ذراعه , ووضع رأسه على
+1	كان	كان	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+2	في	فى	ADP	P	_	0	_	_	_
+3	سفر	سفر±travel;trip	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=2/20|FROM_MA=true|TOOL=MX|WID=13
+4	,	_	PUNCT	PUNC	_	0	_	_	_
+5-6	فعرس	_	_	_	_	0	_	_	FROM_MA=true
+5	ف	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/7|FROM_MA=true|TOOL=MX|WID=15
+6	عرس	عرس±marry_off	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/7|FROM_MA=true|NOTE=lemma|TOOL=MX|WID=15
+7-8	بليل	_	_	_	_	_	_	_	_
+7	ب	_	ADP	P	_	0	_	_	_
+8	ليل	ليل	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	_
+9	اضطجع	اضطجع	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+10	على	على	ADP	P	_	0	_	_	_
+11-12	يمينه	_	_	_	_	_	_	_	_
+11	يمين	يمين	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+12	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+13	,	_	PUNCT	PUNC	_	0	_	_	_
+14-15	وإذا	_	_	_	_	_	_	_	_
+14	و	_	CCONJ	CONJ	_	0	_	_	_
+15	إذا	إذا±if;whether	ADV	T	_	0	_	_	_
+16	عرس	عرس	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+17	قبيل	قبيل	ADV	T	_	0	_	_	_
+18-19	الصبح	_	_	_	_	0	_	_	FROM_MA=true
+18	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=24
+19	صبح	صبح±morning;daybreak	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=24
+20	نصب	نصب	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+21-22	ذراعه	_	_	_	_	0	_	_	FROM_MA=true
+21	ذراع	ذراع±arm	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=5/8|FROM_MA=true|TOOL=MX|WID=26
+22	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=5/8|FROM_MA=true|TOOL=MX|WID=26
+23	,	_	PUNCT	PUNC	_	0	_	_	_
+24-25	ووضع	_	_	_	_	_	_	_	_
+24	و	_	CCONJ	CONJ	_	0	_	_	_
+25	وضع	وضع	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+26-27	رأسه	_	_	_	_	0	_	_	FROM_MA=true
+26	رأس	رأس±head;top	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/16|FROM_MA=true|TOOL=MX|WID=29
+27	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=3/16|FROM_MA=true|TOOL=MX|WID=29
+28	على	على	ADP	P	_	0	_	_	_
+
+# sent_id = 158
+# text = : " يا أبا هريرة , ما فعل أسيرك البارحة ? " قلت : يا رسول الله , شكا حاجة
+1	:	_	PUNCT	PUNC	_	0	_	_	_
+2	"	_	PUNCT	PUNC	_	0	_	_	_
+3	يا	_	PART	VOC	_	0	_	_	_
+4	أبا	أبا±father	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=2/8|FROM_MA=true|TOOL=MX|WID=27
+5	هريرة	هريرة	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+6	,	_	PUNCT	PUNC	_	0	_	_	_
+7	ما	_	PART	INTG	_	0	_	_	FROM_MA=true
+8	فعل	فعل	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	_
+9-10	أسيرك	_	_	_	_	0	_	_	FROM_MA=true
+9	أسير	اسير	NOUN	N	Case=Nom|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true
+10	ك	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=2	0	_	_	FROM_MA=true
+11-12	البارحة	_	_	_	_	0	_	_	FROM_MA=true
+11	ال	_	DET	DET	_	0	_	_	ANALSIS#=3/8|FROM_MA=true|TOOL=MX|WID=33
+12	بارحة	بارح±yesterday;yesteryear	NOUN	N	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	0	_	_	ANALSIS#=3/8|FROM_MA=true|TOOL=MX|WID=33
+13	?	?	PUNCT	PUNC	_	0	_	_	_
+14	"	_	PUNCT	PUNC	_	0	_	_	_
+15-16	قلت	_	_	_	_	_	_	_	_
+15	قل	قل±said	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Act	0	_	_	ANALSIS#=1/6|FROM_MA=true|TOOL=MX|WID=36
+16	ت	آذن±announce;warn	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1	0	_	_	ANALSIS#=7/16|DOCID=P123.conllu|ELEMID=2|FROM_MA=true|SENT="±آذنته±"±:±أعلمته|SENTID=S6|TOOL=MX|WID=2
+17	:	_	PUNCT	PUNC	_	0	_	_	_
+18	يا	_	PART	VOC	_	0	_	_	_
+19	رسول	رسول	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true
+20	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true
+21	,	_	PUNCT	PUNC	_	0	_	_	_
+22	شكا	شكا	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	0	_	_	_
+23	حاجة	حاجة	NOUN	N	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	0	_	_	FROM_MA=true|TOOL=QA|TYPE=STEM|WID=16
+
+# ±±± id = /morpho/output/fourtyB-P1161/HD
+# done from=Fri Apr 20 2018 12:40:01 GMT+0100 (BST)|to=Fri Apr 20 2018 12:53:21 GMT+0100 (BST)|T=800466|stats=keyboard=418|tag_morphofeatures=39|showGuider=65|tag_ma=33|changeWith=25|mouse=15|highlight=S7:7
+# newdoc id = /morpho/output/fourtyB-P1161/SOURCE
+# newpar
+# sent_id = 172
+# text = وعن أبي هريرة - رضي الله عنه - قال : قال رسول الله - صلى الله عليه وسلم : "
+1-2	وعن	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	FROM=PASTE
+2	عن	عن	ADP	P	_	0	_	_	_
+3	أبي	أب	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+4	هريرة	هريرة	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+5	-	_	PUNCT	PUNC	_	0	_	_	_
+6	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+7	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+8-9	عنه	_	_	_	_	_	_	_	_
+8	عن	عن	ADP	P	_	0	_	_	_
+9	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+10	-	-	PUNCT	PUNC	_	0	_	_	_
+11	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+12	:	_	PUNCT	PUNC	_	0	_	_	_
+13	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+14	رسول	رسول	NOUN	N	Case=Nom|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+15	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+16	-	_	PUNCT	PUNC	_	0	_	_	_
+17	صلى	صلى±pray;worship	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+18	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+19-20	عليه	_	_	_	_	_	_	_	_
+19	على	على	ADP	P	_	0	_	_	_
+20	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+21-22	وسلم	_	_	_	_	_	_	_	_
+21	و	_	CCONJ	CONJ	_	0	_	_	_
+22	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+23	:	_	PUNCT	PUNC	_	0	_	_	_
+24	"	_	PUNCT	PUNC	_	0	_	_	_
+
+# sent_id = 179
+# text = اللهم ارحمه " . رواه البخاري . ( 1 )
+1-2	اللهم	_	_	_	_	_	_	_	_
+1	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+2	م	_	PART	VOC	_	0	_	_	_
+3-4	ارحمه	_	_	_	_	_	_	_	_
+3	ارحم	أرحم	VERB	V	Aspect=Impv|Gender=Masc|Number=Sing|Person=2|Voice=Unsp	0	_	_	_
+4	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+5	"	_	PUNCT	PUNC	_	0	_	_	_
+6	.	_	PUNCT	PUNC	_	0	_	_	_
+7-8	رواه	_	_	_	_	_	_	_	_
+7	روى	_	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+8	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+9-10	البخاري	_	_	_	_	_	_	_	_
+9	ال	_	DET	DET	_	0	_	_	_
+10	بخاري	بخاري±Bukhari	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+11	.	_	PUNCT	PUNC	_	0	_	_	_
+12	(	_	PUNCT	PUNC	_	0	_	_	_
+13	1	_	NUM	NUM	Gender=Neut	0	_	_	_
+14	)	_	PUNCT	PUNC	_	0	_	_	SpacesAfter=\n
+
+# ±±± id = /morpho/output/fourtyB-P1201/HD
+# done from=Mon Apr 23 2018 11:39:57 GMT+0100 (BST)|to=Mon Apr 23 2018 11:48:40 GMT+0100 (BST)|T=523696|stats=mouse=3|showGuider=19|keyboard=203|tag_ma=30|changeWith=25|tag_morphofeatures=19|highlight=S12:2
+# newdoc id = /morpho/output/fourtyB-P1201/SOURCE
+# newpar
+# sent_id = 184
+# text = وعن ابن مسعود - رضي الله عنه - قال : سألت رسول الله - صلى الله عليه وسلم - أي
+1-2	وعن	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	FROM=PASTE
+2	عن	عن	ADP	P	_	0	_	_	_
+3	ابن	ابن±son	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	DOC=P459.conllu|FROM_MA=true
+4	مسعود	مسعود	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	DOC=fourtyB-P1512.conllu|FROM_MA=true
+5	-	_	PUNCT	PUNC	_	0	_	_	_
+6	رضي	رضي±be_pleased;agree;approve	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=12/14|DOC=P1202.conllu|FROM_MA=true|TOOL=MX|WID=4
+7	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	DOC=P11.conllu|FROM_MA=true
+8-9	عنه	_	_	_	_	0	_	_	DOC=P11.conllu|FROM_MA=true
+8	عن	عن	ADP	P	_	0	_	_	FROM_MA=true
+9	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	DOC=P11.conllu|FROM_MA=true
+10	-	-	PUNCT	PUNC	_	0	_	_	_
+11	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	DOC=P123.conllu|FROM_MA=true
+12	:	_	PUNCT	PUNC	_	0	_	_	_
+13-14	سألت	_	_	_	_	_	_	_	_
+13	سأل	سأل±ask;inquire;request	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Voice=Act	0	_	_	ANALSIS#=1/6|FROM_MA=true|TOOL=MX|WID=1
+14	ت	آذن±announce;warn	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=1	0	_	_	ANALSIS#=7/16|DOCID=P123.conllu|ELEMID=2|FROM_MA=true|SENT="±آذنته±"±:±أعلمته|SENTID=S6|TOOL=MX|WID=2
+15	رسول	رسول±messenger_(Muhammad)	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=5/12|FROM_MA=true|TOOL=MX|WID=2
+16	الله	الله±Allah;God	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	DOC=P152.conllu|FROM_MA=true
+17	-	-	PUNCT	PUNC	_	0	_	_	_
+18	صلى	صلى±pray;worship	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/3|DOC=P1202.conllu|FROM_MA=true|TOOL=MX|WID=14
+19	الله	الله±Allah;God	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	DOC=P139.conllu|FROM_MA=true
+20-21	عليه	_	_	_	_	_	_	_	_
+20	على	على	ADP	P	_	0	_	_	_
+21	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+22-23	وسلم	_	_	_	_	0	_	_	DOC=P11.conllu|FROM_MA=true
+22	و	_	CCONJ	CONJ	_	0	_	_	DOC=P11.conllu|FROM_MA=true
+23	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	DOC=P11.conllu|FROM_MA=true
+24	-	-	PUNCT	PUNC	_	0	_	_	_
+25	أي	أى	PART	INTG	_	0	_	_	_
+
+# ±±± id = /morpho/output/fourtyB-P1212/HD
+# done from=Tue Apr 24 2018 10:10:18 GMT+0100 (BST)|to=Tue Apr 24 2018 10:22:34 GMT+0100 (BST)|T=736048|stats=keyboard=185|tag_ma=32|showGuider=26|changeWith=27|tag_morphofeatures=10|mouse=4|highlight=S5:2
+# newdoc id = /morpho/output/fourtyB-P1212/SOURCE
+# newpar
+# sent_id = 188
+# text = وعن أبي سعيد الخدري - رضي الله عنه : أن رسول الله - صلى الله عليه وسلم - رأى في
+1-2	وعن	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	FROM=PASTE
+2	عن	عن	ADP	P	_	0	_	_	_
+3	أبي	أبي±father	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/19|DOCID=P43.conllu|ELEMID=4|FROM_MA=true|SENT=وعن±أمير±أبي±مالك±الحارث|SENTID=S1|TOOL=MX|WID=3
+4	سعيد	سعيد	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	DOCID=P226.conllu|ELEMID=3|FROM_MA=true|SENT=عن±أبي±سعيد±الخدري±-|SENTID=S3
+5-6	الخدري	_	_	_	_	0	_	_	DOCID=P226.conllu|ELEMID=4-5|FROM_MA=true|SENT=أبي±سعيد±الخدري±-±رضي|SENTID=S3
+5	ال	الخدري	DET	DET	_	0	_	_	FROM_MA=true
+6	خدري	الخدري	ADJ	ADJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Voice=Unsp	0	_	_	DOCID=P226.conllu|ELEMID=5|FROM_MA=true|SENT=عن±أبي|SENTID=S3
+7	-	_	PUNCT	PUNC	_	0	_	_	_
+8	رضي	رضي±be_pleased;agree;approve	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=12/14|DOCID=P1202.conllu|ELEMID=5|FROM_MA=true|SENT=ابن±عمر±رضي±الله±عنهما|SENTID=S1|TOOL=MX|WID=4
+9	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	DOCID=P11.conllu|ELEMID=44|FROM_MA=true|SENT=-±رضي±الله±عنه±-|SENTID=S1
+10-11	عنه	_	_	_	_	0	_	_	DOCID=P11.conllu|ELEMID=45-46|FROM_MA=true|SENT=رضي±الله±عنه±-±قال|SENTID=S1
+10	عن	عن	ADP	P	_	0	_	_	FROM_MA=true
+11	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	DOCID=P11.conllu|ELEMID=46|FROM_MA=true|SENT=وعن±أمير|SENTID=S1
+12	:	_	PUNCT	PUNC	_	0	_	_	_
+13	أن	إن	PART	ACC	_	0	_	_	_
+14	رسول	رسول	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	DOCID=P11.conllu|ELEMID=3|FROM_MA=true|SENT=سمعت±رسول±الله±-|SENTID=S2
+15	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	DOCID=P11.conllu|ELEMID=22|FROM_MA=true|SENT=بن±عبد±الله±بن±قرط|SENTID=S1
+16	-	-	PUNCT	PUNC	_	0	_	_	_
+17	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	DOCID=P11.conllu|ELEMID=6|FROM_MA=true|SENT=الله±-±صلى±الله±عليه|SENTID=S2
+18	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	DOCID=P11.conllu|ELEMID=44|FROM_MA=true|SENT=-±رضي±الله±عنه±-|SENTID=S1
+19-20	عليه	_	_	_	_	0	_	_	DOCID=P152.conllu|ELEMID=2-3|FROM_MA=true|SENT=متفق±عليه±.|SENTID=S5
+19	على	على	ADP	P	_	0	_	_	FROM_MA=true
+20	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	FROM_MA=true
+21-22	وسلم	_	_	_	_	_	_	_	_
+21	و	_	CCONJ	CONJ	_	0	_	_	_
+22	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+23	-	-	PUNCT	PUNC	_	0	_	_	_
+24	رأى	رآ	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	DOCID=P226.conllu|ELEMID=3|FROM_MA=true|SENT="±من±رأى±منكم±منكرا|SENTID=S5
+25	في	فى	ADP	P	_	0	_	_	_
+
+# ±±± id = /morpho/output/fourtyB-P1386/HD
+# done from=Fri Apr 20 2018 12:16:21 GMT+0100 (BST)|to=Fri Apr 20 2018 12:22:10 GMT+0100 (BST)|T=348493|stats=mouse=1|showGuider=10|keyboard=88|tag_ma=7|changeWith=7|tag_morphofeatures=16|highlight=S3:2
+# newdoc id = /morpho/output/fourtyB-P1386/SOURCE
+# newpar
+# sent_id = 219
+# text = وعن ابن عباس رضي الله عنهما : أن رسول الله - صلى الله عليه وسلم - صام يوم عاشوراء وأمر
+1-2	وعن	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	FROM=PASTE
+2	عن	عن	ADP	P	_	0	_	_	_
+3	ابن	ابن±son	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/14|FROM_MA=true|TOOL=MX|WID=2
+4	عباس	عباس	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+5	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+6	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+7-8	عنهما	_	_	_	_	_	_	_	_
+7	عن	مهعنا	ADP	P	_	0	_	_	_
+8	هما	_	PRON	PRON	Case=Gen|Gender=Neut|Number=Dual|Person=3	0	_	_	_
+9	:	_	PUNCT	PUNC	_	0	_	_	_
+10	أن	إن	PART	ACC	_	0	_	_	_
+11	رسول	رسول	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+12	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+13	-	-	PUNCT	PUNC	_	0	_	_	_
+14	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+15	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+16-17	عليه	_	_	_	_	_	_	_	_
+16	على	على	ADP	P	_	0	_	_	_
+17	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+18-19	وسلم	_	_	_	_	0	_	_	FROM_MA=true
+18	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/45|FROM_MA=true|TOOL=MX|WID=15
+19	سلم	سلم±hand_over;surrender;greet	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/45|FROM_MA=true|TOOL=MX|WID=15
+20	-	-	PUNCT	PUNC	_	0	_	_	_
+21	صام	صام±abstain;fast	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=17
+22	يوم	يوم±day	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/7|FROM_MA=true|TOOL=MX|WID=18
+23	عاشوراء	عاشوراء	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+24-25	وأمر	_	_	_	_	0	_	_	FROM_MA=true
+24	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/87|FROM_MA=true|TOOL=MX|WID=20
+25	أمر	أمر±command;order;prescribe	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/87|FROM_MA=true|TOOL=MX|WID=20
+
+# ±±± id = /morpho/output/fourtyB-P1437/HD
+# done from=Thu Apr 19 2018 15:47:04 GMT+0100 (BST)|to=Thu Apr 19 2018 15:52:19 GMT+0100 (BST)|T=315454|stats=mouse=1|keyboard=119|tag_ma=16|changeWith=13|tag_morphofeatures=21|showGuider=9|highlight=S5:2
+# notdone from=Thu Apr 19 2018 11:41:01 GMT+0100 (BST)|to=Thu Apr 19 2018 12:00:14 GMT+0100 (BST)|T=1152878|stats=mouse=3|keyboard=235|tag_ma=20|changeWith=15|showGuider=15|tag_morphofeatures=41|highlight=S3:56
+# newdoc id = /morpho/output/fourtyB-P1437/SOURCE
+# newpar
+# sent_id = 225
+# text = وعنه : أن رسول الله - صلى الله عليه وسلم - قال : " من خير معاش الناس لهم ,
+1-3	وعنه	_	_	_	_	0	_	_	FROM_MA=true
+1	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/24|FROM_MA=true|TOOL=MX|WID=1
+2	عن	عن±from;about	ADP	P	_	0	_	_	ANALSIS#=1/24|FROM_MA=true|TOOL=MX|WID=1
+3	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=1/24|FROM_MA=true|TOOL=MX|WID=1
+4	:	_	PUNCT	PUNC	_	0	_	_	_
+5	أن	إن	PART	ACC	_	0	_	_	_
+6	رسول	رسول	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+7	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+8	-	_	PUNCT	PUNC	_	0	_	_	_
+9	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+10	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+11-12	عليه	_	_	_	_	_	_	_	_
+11	على	على	ADP	P	_	0	_	_	_
+12	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+13-14	وسلم	_	_	_	_	_	_	_	_
+13	و	_	CCONJ	CONJ	_	0	_	_	_
+14	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+15	-	-	PUNCT	PUNC	_	0	_	_	_
+16	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+17	:	_	PUNCT	PUNC	_	0	_	_	_
+18	"	_	PUNCT	PUNC	_	0	_	_	_
+19	من	من	ADP	P	_	0	_	_	_
+20	خير	خير	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+21	معاش	معاش±salary;pension;income	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=2/6|FROM_MA=true|TOOL=MX|WID=4
+22-23	الناس	_	_	_	_	0	_	_	FROM_MA=true
+22	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=5
+23	ناس	ناس±people	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=5
+24-25	لهم	_	_	_	_	0	_	_	FROM_MA=true
+24	ل	لهم±to;for_+_them_[masc.pl.]_(they_have)	ADP	P	_	0	_	_	ANALSIS#=1/20|FROM_MA=true|TOOL=MX|WID=6
+25	هم	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3	0	_	_	ANALSIS#=1/20|FROM_MA=true|TOOL=MX|WID=6
+26	,	,	PUNCT	PUNC	_	0	_	_	_
+
+# sent_id = 236
+# text = يا أم حارثة إنها جنان في الجنة , وإن ابنك أصاب الفردوس الأعلى " . رواه البخاري . ( 1
+1	يا	_	PART	VOC	_	0	_	_	_
+2	أم	أم±mother;maternal	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=4/10|FROM_MA=true|TOOL=MX|WID=3
+3	حارثة	حارثت	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+4-5	إنها	_	_	_	_	_	_	_	_
+4	إن	إن	PART	ACC	_	0	_	_	_
+5	ها	_	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	_	_	_
+6	جنان	جنان±gardens	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	0	_	_	ANALSIS#=1/6|FROM_MA=true|TOOL=MX|WID=6
+7	في	فى	ADP	P	_	0	_	_	_
+8-9	الجنة	_	_	_	_	_	_	_	_
+8	ال	_	DET	DET	_	0	_	_	_
+9	جنة	جن±paradise;garden	NOUN	N	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	0	_	_	ANALSIS#=4/13|FROM_MA=true|TOOL=MX|WID=18
+10	,	,	PUNCT	PUNC	_	0	_	_	_
+11-12	وإن	_	_	_	_	_	_	_	_
+11	و	_	CCONJ	CONJ	_	0	_	_	_
+12	إن	إن	PART	ACC	_	0	_	_	_
+13-14	ابنك	_	_	_	_	0	_	_	FROM_MA=true
+13	ابن	ابن±son	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/20|FROM_MA=true|TOOL=MX|WID=11
+14	ك	_	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=2	0	_	_	ANALSIS#=1/20|FROM_MA=true|TOOL=MX|WID=11
+15	أصاب	أصاب±strike;afflict	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/2|FROM_MA=true|TOOL=MX|WID=12
+16-17	الفردوس	_	_	_	_	0	_	_	FROM_MA=true
+16	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=13
+17	فردوس	فردوس±paradise	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=13
+18-19	الأعلى	_	_	_	_	0	_	_	FROM_MA=true
+18	ال	_	DET	DET	_	0	_	_	FROM_MA=true|TOOL=MX|WID=14
+19	أعلى	أعلى±higher;highest;supreme	ADJ	ADJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Voice=Unsp	0	_	_	FROM_MA=true|TOOL=MX|WID=14
+20	"	_	PUNCT	PUNC	_	0	_	_	_
+21	.	_	PUNCT	PUNC	_	0	_	_	_
+22-23	رواه	_	_	_	_	_	_	_	_
+22	روى	_	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+23	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+24-25	البخاري	_	_	_	_	_	_	_	_
+24	ال	_	DET	DET	_	0	_	_	_
+25	بخاري	بخاري±Bukhari	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	_	_	_
+26	.	_	PUNCT	PUNC	_	0	_	_	_
+27	(	_	PUNCT	PUNC	_	0	_	_	_
+28	1	_	NUM	NUM	Gender=Neut	0	_	_	_
+
+# ±±± id = /morpho/output/fourtyB-P1502/HD
+# done from=Sat Apr 28 2018 16:04:43 GMT+0100 (BST)|to=Sat Apr 28 2018 16:08:08 GMT+0100 (BST)|T=205013|stats=keyboard=10|tag_morphofeatures=2|highlight=S3:19
+# done from=Wed Apr 18 2018 19:15:47 GMT+0100 (BST)|to=Wed Apr 18 2018 19:20:43 GMT+0100 (BST)|T=295978|stats=keyboard=147|tag_ma=17|changeWith=11|tag_morphofeatures=24|showGuider=19|mouse=3|highlight=S5:2
+# newdoc id = /morpho/output/fourtyB-P1502/SOURCE
+# newpar
+# sent_id = 245
+# text = عن ابن عمر رضي الله عنهما : أن رسول الله - صلى الله عليه وسلم - قال : " إن
+1	عن	عن	ADP	P	_	0	_	_	_
+2	ابن	ابن±son	NOUN	N	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=2/14|FROM_MA=true|TOOL=MX|WID=2
+3	عمر	عمر±Omar;Umar	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/11|FROM_MA=true|TOOL=MX|WID=3
+4	رضي	رضى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+5	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+6-7	عنهما	_	_	_	_	_	_	_	_
+6	عن	مهعنا	ADP	P	_	0	_	_	_
+7	هما	_	PRON	PRON	Case=Gen|Gender=Neut|Number=Dual|Person=3	0	_	_	_
+8	:	_	PUNCT	PUNC	_	0	_	_	_
+9	أن	إن	PART	ACC	_	0	_	_	_
+10	رسول	رسول	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Sing	0	_	_	_
+11	الله	الله	PROPN	PN	Case=Gen|Gender=Masc|Number=Sing	0	_	_	_
+12	-	-	PUNCT	PUNC	_	0	_	_	_
+13	صلى	صلى	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+14	الله	الله	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	_
+15-16	عليه	_	_	_	_	_	_	_	_
+15	على	على	ADP	P	_	0	_	_	_
+16	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	_
+17-18	وسلم	_	_	_	_	_	_	_	_
+17	و	_	CCONJ	CONJ	_	0	_	_	_
+18	سلم	وسلم	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+19	-	-	PUNCT	PUNC	_	0	_	_	_
+20	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	_
+21	:	_	PUNCT	PUNC	_	0	_	_	_
+22	"	_	PUNCT	PUNC	_	0	_	_	_
+23	إن	إن	PART	ACC	_	0	_	_	_
+
+# sent_id = 248
+# text = " حوسب رجل ممن كان قبلكم , فلم يوجد له من الخير شيء , إلا أنه كان يخالط الناس وكان
+1	"	_	PUNCT	PUNC	_	0	_	_	_
+2	حوسب	حوسب	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Pass	0	_	_	_
+3	رجل	رجل±man	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=5/14|FROM_MA=true|TOOL=MX|WID=3
+4-5	ممن	_	_	_	_	_	_	_	_
+4	من	من	ADP	P	_	0	_	_	_
+5	من	من	PRON	REL	_	0	_	_	_
+6	كان	كان±was;were	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/5|FROM_MA=true|TOOL=MX|WID=5
+7-8	قبلكم	_	_	_	_	0	_	_	FROM_MA=true
+7	قبل	قبل±before	ADV	T	_	0	_	_	ANALSIS#=5/8|FROM_MA=true|TOOL=MX|WID=6
+8	كم	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=2	0	_	_	ANALSIS#=5/8|FROM_MA=true|TOOL=MX|WID=6
+9	,	_	PUNCT	PUNC	_	0	_	_	_
+10-11	فلم	_	_	_	_	_	_	_	_
+10	ف	_	PART	SUP	_	0	_	_	_
+11	لم	لم	PART	NEG	_	0	_	_	_
+12	يوجد	وجد±be_found;exist	VERB	V	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Pass	0	_	_	ANALSIS#=1/2|FROM_MA=true|TOOL=MX|WID=9
+13-14	له	_	_	_	_	0	_	_	FROM_MA=true
+13	ل	له±to;for_+_it;him_(it;he_has)	ADP	P	_	0	_	_	FROM_MA=true|TOOL=MX|WID=10
+14	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	FROM_MA=true|TOOL=MX|WID=10
+15	من	من	ADP	P	_	0	_	_	_
+16-17	الخير	_	_	_	_	0	_	_	FROM_MA=true
+16	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/12|FROM_MA=true|TOOL=MX|WID=12
+17	خير	خير±good	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/12|FROM_MA=true|TOOL=MX|WID=12
+18	شيء	شيء±something	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true|TOOL=MX|WID=13
+19	,	_	PUNCT	PUNC	_	0	_	_	_
+20	إلا	ألا	PART	EXP	_	0	_	_	_
+21-22	أنه	_	_	_	_	0	_	_	FROM_MA=true
+21	أن	أن±that	PART	ACC	_	0	_	_	ANALSIS#=1/16|FROM_MA=true|TOOL=MX|WID=16
+22	ه	_	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=1/16|FROM_MA=true|TOOL=MX|WID=16
+23	كان	كان±was;were	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/5|FROM_MA=true|TOOL=MX|WID=17
+24	يخالط	خالط±mix;mingle	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=18
+25-26	الناس	_	_	_	_	0	_	_	FROM_MA=true
+25	ال	_	DET	DET	_	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=19
+26	ناس	ناس±people	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/4|FROM_MA=true|TOOL=MX|WID=19
+27-28	وكان	_	_	_	_	0	_	_	FROM_MA=true
+27	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/15|FROM_MA=true|TOOL=MX|WID=20
+28	كان	كان±was;were	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/15|FROM_MA=true|TOOL=MX|WID=20
+
+# sent_id = 249
+# text = موسرا , وكان يأمر غلمانه أن يتجاوزوا عن المعسر . قال الله - عز وجل : نحن أحق بذلك منه
+1	موسرا	موسر±well-to-do	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/2|FROM_MA=true|TOOL=MX|WID=21
+2	,	_	PUNCT	PUNC	_	0	_	_	_
+3-4	وكان	_	_	_	_	0	_	_	FROM_MA=true
+3	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/15|FROM_MA=true|TOOL=MX|WID=23
+4	كان	كان±was;were	VERB	V	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/15|FROM_MA=true|TOOL=MX|WID=23
+5	يأمر	أمر±command;order;prescribe	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=24
+6-7	غلمانه	_	_	_	_	0	_	_	FROM_MA=true
+6	غلمان	غلمان±boys;youths	NOUN	N	Case=Acc|Definite=Cons|Gender=Masc|Number=Plur	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=25
+7	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=2/4|FROM_MA=true|TOOL=MX|WID=25
+8	أن	إن	SCONJ	SUB	_	0	_	_	_
+9-10	يتجاوزوا	_	_	_	_	_	_	_	_
+9	يتجاوز	تجاوز±exceed;disregard	VERB	V	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=27
+10	وا	_	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=2	0	_	_	_
+11	عن	عن	ADP	P	_	0	_	_	_
+12-13	المعسر	_	_	_	_	0	_	_	FROM_MA=true
+12	ال	_	DET	DET	_	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=29
+13	معسر	معسر±impoverished;indigent	ADJ	ADJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Voice=Act	0	_	_	ANALSIS#=1/4|FROM_MA=true|TOOL=MX|WID=29
+14	.	.	PUNCT	PUNC	_	0	_	_	_
+15	قال	قال±said	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	FROM_MA=true|TOOL=MX|WID=1
+16	الله	الله±Allah;God	PROPN	PN	Case=Nom|Gender=Masc|Number=Sing	0	_	_	FROM_MA=true|TOOL=MX|WID=2
+17	-	_	PUNCT	PUNC	_	0	_	_	_
+18	عز	عز±be_strong;be_dear	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/14|FROM_MA=true|TOOL=MX|WID=4
+19-20	وجل	_	_	_	_	0	_	_	FROM_MA=true
+19	و	_	CCONJ	CONJ	_	0	_	_	ANALSIS#=1/70|FROM_MA=true|TOOL=MX|WID=5
+20	جل	جل±be_majestic	VERB	V	Aspect=Perf|Gender=Masc|Mood=Unsp|Number=Sing|Person=3|Voice=Act	0	_	_	ANALSIS#=1/70|FROM_MA=true|TOOL=MX|WID=5
+21	:	_	PUNCT	PUNC	_	0	_	_	_
+22	نحن	نحن±we	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=1	0	_	_	ANALSIS#=1/2|FROM_MA=true|TOOL=MX|WID=1
+23	أحق	أحق±worthier;worthiest	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	ANALSIS#=3/9|FROM_MA=true|TOOL=MX|WID=2
+24-25	بذلك	_	_	_	_	0	_	_	FROM_MA=true
+24	ب	_	ADP	P	_	0	_	_	ANALSIS#=1/19|FROM_MA=true|TOOL=MX|WID=3
+25	ذلك	ذلك±that	PRON	DEM	Gender=Masc|Number=Sing	0	_	_	ANALSIS#=1/19|FROM_MA=true|TOOL=MX|WID=3
+26-27	منه	_	_	_	_	0	_	_	FROM_MA=true
+26	من	من±from	ADP	P	_	0	_	_	ANALSIS#=1/2|FROM_MA=true|TOOL=MX|WID=4
+27	ه	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3	0	_	_	ANALSIS#=1/2|FROM_MA=true|TOOL=MX|WID=4
+
+# newdoc id=10
+# sent_id = 1929
+# text = إن ربكم الله الذي خلق السموت والأرض في ستة أيام ثم استوى على العرش يدبر الأمر ما من شفيع إلا
+# filename=10-3
+1	إن	إن	PART	ACC	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2-3	ربكم	_	_	_	_	_	_	_	_
+2	رب	رب	NOUN	N	Case=Acc|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+3	كم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+4	الله	الله	PROPN	PN	Case=Nom	0	_	_	OTH=الله|TOOL=QA|TYPE=STEM|WID=3
+5	الذي	الذى	PRON	REL	Gender=Masc|Number=Sing	0	_	_	OTH=الذى|TOOL=QA|TYPE=STEM|WID=4
+6	خلق	خلق	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+7-8	السماوات	_	_	_	_	_	_	_	_
+7	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=6
+8	سماوات	سما^ء	NOUN	N	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	0	_	_	OTH=سموت|TOOL=QA|TYPE=STEM|WID=6
+9-11	والأرض	_	_	_	_	_	_	_	_
+9	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=7
+10	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=7
+11	أرض	أرض	NOUN	N	Case=Acc|Definite=Def|Gender=Fem	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+12	في	فى	ADP	P	_	0	_	_	OTH=فى|TOOL=QA|TYPE=STEM|WID=8
+13	ستة	ستة	NOUN	N	Case=Gen|Definite=Def|Gender=Fem	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+14	أيام	يوم	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	0	_	_	TOOL=QA|TYPE=STEM|WID=10
+15	ثم	ثم	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=STEM|WID=11
+16	استوى	استوى^	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	OTH=استوى|TOOL=QA|TYPE=STEM|WID=12
+17	على	على	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=13
+18-19	العرش	_	_	_	_	_	_	_	_
+18	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=14
+19	عرش	عرش	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=14
+20	يدبر	يدبر	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=15
+21-22	الأمر	_	_	_	_	_	_	_	_
+21	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=16
+22	أمر	أمر	NOUN	N	Case=Acc|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=16
+23	ما	ما	PART	NEG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=17
+24	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=18
+25	شفيع	شفيع	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	TOOL=QA|TYPE=STEM|WID=19
+26	إلا	إلا	PART	RES	_	0	_	_	TOOL=QA|TYPE=STEM|WID=20
+
+# newdoc id=10
+# sent_id = 1938
+# text = إن الذين آمنوا وعملوا الصلحت يهديهم ربهم بإيمنهم تجري من تحتهم الأنهر في جنات النعيم
+# filename=10-9
+1	إن	إن	PART	ACC	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2	الذين	الذى	PRON	REL	Gender=Masc|Number=Plur	0	_	_	OTH=الذين|TOOL=QA|TYPE=STEM|WID=2
+3-4	آمنوا	_	_	_	_	_	_	_	_
+3	آمن	آمن	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	0	_	_	OTH=آمن|TOOL=QA|TYPE=STEM|WID=3
+4	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=3
+5-7	وعملوا	_	_	_	_	_	_	_	_
+5	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=4
+6	عمل	عمل	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+7	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=4
+8-9	الصالحات	_	_	_	_	_	_	_	_
+8	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=5
+9	صالحات	صلحت	NOUN	N	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Voice=Act	0	_	_	OTH=صلحت|TOOL=QA|TYPE=STEM|WID=5
+10-11	يهديهم	_	_	_	_	_	_	_	_
+10	يهدي	هدى	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+11	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=6
+12-13	ربهم	_	_	_	_	_	_	_	_
+12	رب	رب	NOUN	N	Case=Nom|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+13	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=7
+14-16	بإيمانهم	_	_	_	_	_	_	_	_
+14	ب	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=8
+15	إيمان	إيمن	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	OTH=إيمن|TOOL=QA|TYPE=STEM|WID=8
+16	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=8
+17	تجري	جري	VERB	V	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	OTH=تجرى|TOOL=QA|TYPE=STEM|WID=9
+18	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=10
+19-20	تحتهم	_	_	_	_	_	_	_	_
+19	تحت	تحت	NOUN	N	Case=Gen|Definite=Def	0	_	_	TOOL=QA|TYPE=STEM|WID=11
+20	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=11
+21-22	الأنهار	_	_	_	_	_	_	_	_
+21	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=12
+22	أنهار	نهر	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	_	_	OTH=أنهر|TOOL=QA|TYPE=STEM|WID=12
+23	في	فى	ADP	P	_	0	_	_	OTH=فى|TOOL=QA|TYPE=STEM|WID=13
+24	جنات	جنة	NOUN	N	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	0	_	_	OTH=جنت|TOOL=QA|TYPE=STEM|WID=14
+25-26	النعيم	_	_	_	_	_	_	_	_
+25	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=15
+26	نعيم	نعيم	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=15
+
+# newdoc id=10
+# sent_id = 1941
+# text = وإذا مس الإنسن الضر دعانا لجنۢبه أو قاعدا أو قائما فلما كشفنا عنه ضره مر كأن لم يدعنا إلى ضر
+# filename=10-12
+1-2	وإذا	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	إذا	إذا	ADV	T	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+3	مس	مس	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+4-5	الإنسان	_	_	_	_	_	_	_	_
+4	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=3
+5	إنسان	إنسن	NOUN	N	Case=Acc|Definite=Def|Gender=Masc	0	_	_	OTH=إنسن|TOOL=QA|TYPE=STEM|WID=3
+6-7	الضر	_	_	_	_	_	_	_	_
+6	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=4
+7	ضر	ضر	NOUN	N	Case=Nom|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+8-9	دعانا	_	_	_	_	_	_	_	_
+8	دعا	دعا	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+9	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=5
+10-12	لجنبه	_	_	_	_	_	_	_	_
+10	ل	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=6
+11	جنب	جنب	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	OTH=جنۢب|TOOL=QA|TYPE=STEM|WID=6
+12	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	OTH=ه|TOOL=QA|TYPE=SUFFIX|WID=6
+13	أو	أو	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+14	قاعدا	قاعد	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=8
+15	أو	أو	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+16	قائما	قا^ئم	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Voice=Act	0	_	_	OTH=قائما|TOOL=QA|TYPE=STEM|WID=10
+17-18	فلما	_	_	_	_	_	_	_	_
+17	ف	_	PART	REM	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=11
+18	لما	لما	ADV	T	_	0	_	_	TOOL=QA|TYPE=STEM|WID=11
+19-20	كشفنا	_	_	_	_	_	_	_	_
+19	كشف	كشف	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=12
+20	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=12
+21-22	عنه	_	_	_	_	_	_	_	_
+21	عن	عن	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=13
+22	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=13
+23-24	ضره	_	_	_	_	_	_	_	_
+23	ضر	ضر	NOUN	N	Case=Acc|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=14
+24	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	OTH=ه|TOOL=QA|TYPE=SUFFIX|WID=14
+25	مر	مر	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=15
+26-27	كأن	_	_	_	_	_	_	_	_
+26	ك	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=16
+27	أن	أن	SCONJ	SUB	_	0	_	_	TOOL=QA|TYPE=STEM|WID=16
+28	لم	لم	PART	NEG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=17
+29-30	يدعنا	_	_	_	_	_	_	_	_
+29	يدع	دعا	VERB	V	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=18
+30	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	OTH=نا|TOOL=QA|TYPE=SUFFIX|WID=18
+31	إلى	إلى	ADP	P	_	0	_	_	OTH=إلى|TOOL=QA|TYPE=STEM|WID=19
+32	ضر	ضر	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=20
+
+# newdoc id=10
+# sent_id = 1948
+# text = فمن أظلم ممن افترى على الله كذبا أو كذب بايته إنه لا يفلح المجرمون
+# filename=10-17
+1-2	فمن	_	_	_	_	_	_	_	_
+1	ف	_	PART	REM	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	من	من	PRON	REL	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+3	أظلم	أظلم	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+4-5	ممن	_	_	_	_	_	_	_	_
+4	م	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+5	من	من	PRON	REL	_	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+6	افترى	افترى	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	OTH=افترى|TOOL=QA|TYPE=STEM|WID=4
+7	على	على	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+8	الله	الله	PROPN	PN	Case=Gen	0	_	_	OTH=الله|TOOL=QA|TYPE=STEM|WID=6
+9	كذبا	كذب	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+10	أو	أو	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=STEM|WID=8
+11	كذب	كذب	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+12-14	بآياته	_	_	_	_	_	_	_	_
+12	ب	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=10
+13	آيات	آية	NOUN	N	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	0	_	_	OTH=ايت|TOOL=QA|TYPE=STEM|WID=10
+14	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	OTH=ه|TOOL=QA|TYPE=SUFFIX|WID=10
+15-16	إنه	_	_	_	_	_	_	_	_
+15	إن	إن	PART	ACC	_	0	_	_	TOOL=QA|TYPE=STEM|WID=11
+16	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	OTH=ه|TOOL=QA|TYPE=SUFFIX|WID=11
+17	لا	لا	PART	NEG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=12
+18	يفلح	أفلح	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=13
+19-20	المجرمون	_	_	_	_	_	_	_	_
+19	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=14
+20	مجرمون	مجرم	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=14
+
+# newdoc id=10
+# sent_id = 1969
+# text = هنالك تبلو كل نفس ما أسلفت وردوا إلى الله مولاهم الحق وضل عنهم ما كانوا يفترون
+# filename=10-30
+1	هنالك	هنالك	ADV	T	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2	تبلو	بلو	VERB	V	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	_	_	OTH=تبلوا|TOOL=QA|TYPE=STEM|WID=2
+3	كل	كل	NOUN	N	Case=Nom|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+4	نفس	نفس	NOUN	N	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+5	ما	ما	PRON	REL	_	0	_	_	OTH=ما|TOOL=QA|TYPE=STEM|WID=5
+6	أسلفت	أسلفت	VERB	V	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+7-9	وردوا	_	_	_	_	_	_	_	_
+7	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=7
+8	رد	رد	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Pass	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+9	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=7
+10	إلى	إلى	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=8
+11	الله	الله	PROPN	PN	Case=Gen	0	_	_	OTH=الله|TOOL=QA|TYPE=STEM|WID=9
+12-13	مولاهم	_	_	_	_	_	_	_	_
+12	مولا	مولى	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	OTH=مولى|TOOL=QA|TYPE=STEM|WID=10
+13	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=10
+14-15	الحق	_	_	_	_	_	_	_	_
+14	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=11
+15	حق	حق	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=11
+16-17	وضل	_	_	_	_	_	_	_	_
+16	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=12
+17	ضل	ضل	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=12
+18-19	عنهم	_	_	_	_	_	_	_	_
+18	عن	عن	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=13
+19	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=13
+20	ما	ما	PRON	REL	_	0	_	_	TOOL=QA|TYPE=STEM|WID=14
+21-22	كانوا	_	_	_	_	_	_	_	_
+21	كان	كان	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=15
+22	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=15
+23-24	يفترون	_	_	_	_	_	_	_	_
+23	يفتر	افترى	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=16
+24	ون	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=16
+
+# newdoc id=10
+# sent_id = 1980
+# text = أم يقولون افتراه قل فأتوا بسورة مثله وادعوا من استطعتم من دون الله إن كنتم صادقين
+# filename=10-38
+1	أم	أم	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2-3	يقولون	_	_	_	_	_	_	_	_
+2	يقول	قال	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+3	ون	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+4-5	افتراه	_	_	_	_	_	_	_	_
+4	افترا	افترى	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	OTH=افترى|TOOL=QA|TYPE=STEM|WID=3
+5	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=3
+6	قل	قال	VERB	V	Aspect=Impv|Gender=Masc|Number=Sing|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+7-9	فأتوا	_	_	_	_	_	_	_	_
+7	ف	_	PART	REM	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=5
+8	أت	أتى	VERB	V	Aspect=Impv|Gender=Masc|Number=Plur|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+9	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=5
+10-11	بسورة	_	_	_	_	_	_	_	_
+10	ب	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=6
+11	سورة	سورة	NOUN	N	Case=Gen|Definite=Ind|Gender=Fem	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+12-13	مثله	_	_	_	_	_	_	_	_
+12	مثل	مثل	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+13	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	OTH=ه|TOOL=QA|TYPE=SUFFIX|WID=7
+14-16	وادعوا	_	_	_	_	_	_	_	_
+14	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=8
+15	ادع	دعا	VERB	V	Aspect=Impv|Gender=Masc|Number=Plur|Person=2|Voice=Act	0	_	_	OTH=ادع|TOOL=QA|TYPE=STEM|WID=8
+16	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=8
+17	من	من	PRON	REL	_	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+18-19	استطعتم	_	_	_	_	_	_	_	_
+18	استطع	استطاع	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=2|Voice=Act	0	_	_	OTH=استطع|TOOL=QA|TYPE=STEM|WID=10
+19	تم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=10
+20	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=11
+21	دون	دون	NOUN	N	Case=Gen|Definite=Def	0	_	_	TOOL=QA|TYPE=STEM|WID=12
+22	الله	الله	PROPN	PN	Case=Gen	0	_	_	OTH=الله|TOOL=QA|TYPE=STEM|WID=13
+23	إن	إن	PART	COND	_	0	_	_	TOOL=QA|TYPE=STEM|WID=14
+24-25	كنتم	_	_	_	_	_	_	_	_
+24	كن	كان	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=15
+25	تم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=15
+26	صادقين	صادق	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Voice=Act	0	_	_	OTH=صدقين|TOOL=QA|TYPE=STEM|WID=16
+
+# newdoc id=10
+# sent_id = 2021
+# text = فإن توليتم فما سألتكم من أجر إن أجرى إلا على الله وأمرت أن أكون من المسلمين
+# filename=10-72
+1-2	فإن	_	_	_	_	_	_	_	_
+1	ف	_	PART	REM	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	إن	إن	PART	COND	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+3-4	توليتم	_	_	_	_	_	_	_	_
+3	تولي	تولى	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+4	تم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+5-6	فما	_	_	_	_	_	_	_	_
+5	ف	_	PART	REM	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=3
+6	ما	ما	PART	NEG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+7-9	سألتكم	_	_	_	_	_	_	_	_
+7	سأل	سأل	VERB	V	Aspect=Perf|Number=Sing|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+8	ت	_	PRON	PRON	Number=Sing|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=4
+9	كم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=4
+10	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+11	أجر	أجر	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+12	إن	إن	PART	NEG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+13-14	أجري	_	_	_	_	_	_	_	_
+13	أجر	أجر	NOUN	N	Case=Nom|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=8
+14	ي	_	PRON	PRON	Number=Sing|Person=1	0	_	_	OTH=ى|TOOL=QA|TYPE=SUFFIX|WID=8
+15	إلا	إلا	PART	RES	_	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+16	على	على	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=10
+17	الله	الله	PROPN	PN	Case=Gen	0	_	_	OTH=الله|TOOL=QA|TYPE=STEM|WID=11
+18-20	وأمرت	_	_	_	_	_	_	_	_
+18	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=12
+19	أمر	أمر	VERB	V	Aspect=Perf|Number=Sing|Person=1|Voice=Pass	0	_	_	TOOL=QA|TYPE=STEM|WID=12
+20	ت	_	PRON	PRON	Number=Sing|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=12
+21	أن	أن	SCONJ	SUB	_	0	_	_	TOOL=QA|TYPE=STEM|WID=13
+22	أكون	كان	VERB	V	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=14
+23	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=15
+24-25	المسلمين	_	_	_	_	_	_	_	_
+24	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=16
+25	مسلمين	مسلم	PROPN	PN	Case=Gen|Gender=Masc|Number=Plur|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=16
+
+# newdoc id=10
+# sent_id = 2028
+# text = قالوا أجئتنا لتلفتنا عما وجدنا عليه آباءنا وتكون لكما الكبرياء في الأرض وما نحن لكما بمؤمنين
+# filename=10-78
+1-2	قالوا	_	_	_	_	_	_	_	_
+1	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=1
+3-6	أجئتنا	_	_	_	_	_	_	_	_
+3	أ	_	PART	INTG	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=2
+4	جئ	جا^ء	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+5	ت	_	PRON	PRON	Gender=Masc|Number=Sing|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+6	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+7-9	لتلفتنا	_	_	_	_	_	_	_	_
+7	ل	_	PART	PRP	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=3
+8	تلفت	تلفت	VERB	V	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+9	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=3
+10-11	عما	_	_	_	_	_	_	_	_
+10	ع	عن	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+11	ما	ما	PRON	REL	_	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+12-13	وجدنا	_	_	_	_	_	_	_	_
+12	وجد	وجد	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+13	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=5
+14-15	عليه	_	_	_	_	_	_	_	_
+14	علي	على	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+15	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=6
+16-17	آباءنا	_	_	_	_	_	_	_	_
+16	آباء	ا^باء	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	0	_	_	OTH=آباء|TOOL=QA|TYPE=STEM|WID=7
+17	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=7
+18-19	وتكون	_	_	_	_	_	_	_	_
+18	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=8
+19	تكون	كان	VERB	V	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=8
+20-21	لكما	_	_	_	_	_	_	_	_
+20	ل	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=9
+21	كما	_	PRON	PRON	Number=Dual|Person=2	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+22-23	الكبرياء	_	_	_	_	_	_	_	_
+22	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=10
+23	كبرياء	كبريا^ء	NOUN	N	Case=Nom|Definite=Def|Gender=Fem	0	_	_	OTH=كبرياء|TOOL=QA|TYPE=STEM|WID=10
+24	في	فى	ADP	P	_	0	_	_	OTH=فى|TOOL=QA|TYPE=STEM|WID=11
+25-26	الأرض	_	_	_	_	_	_	_	_
+25	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=12
+26	أرض	أرض	NOUN	N	Case=Gen|Definite=Def|Gender=Fem	0	_	_	TOOL=QA|TYPE=STEM|WID=12
+27-28	وما	_	_	_	_	_	_	_	_
+27	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=13
+28	ما	ما	PART	NEG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=13
+29	نحن	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=STEM|WID=14
+30-31	لكما	_	_	_	_	_	_	_	_
+30	ل	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=15
+31	كما	_	PRON	PRON	Number=Dual|Person=2	0	_	_	TOOL=QA|TYPE=STEM|WID=15
+32-33	بمؤمنين	_	_	_	_	_	_	_	_
+32	ب	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=16
+33	مؤمنين	مؤمن	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=16
+
+# newdoc id=10
+# sent_id = 2029
+# text = وقال فرعون ائتونى بكل ساحر عليم
+# filename=10-79
+1-2	وقال	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+3	فرعون	فرعون	PROPN	PN	Case=Nom|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+4-6	ائتوني	_	_	_	_	_	_	_	_
+4	ائت	أتى	VERB	V	Aspect=Impv|Gender=Masc|Number=Plur|Person=2|Voice=Act	0	_	_	OTH=ائت|TOOL=QA|TYPE=STEM|WID=3
+5	و	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=3
+6	ني	_	PRON	PRON	Number=Sing|Person=1	0	_	_	OTH=نى|TOOL=QA|TYPE=SUFFIX|WID=3
+7-8	بكل	_	_	_	_	_	_	_	_
+7	ب	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=4
+8	كل	كل	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+9	ساحر	سحر	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Voice=Act	0	_	_	OTH=سحر|TOOL=QA|TYPE=STEM|WID=5
+10	عليم	عليم	ADJ	ADJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+
+# newdoc id=10
+# sent_id = 2046
+# text = ولقد بوأنا بني إسرائيل مبوأ صدق ورزقنهم من الطيبت فما اختلفوا حتى جاءهم العلم إن ربك يقضي بينهم يوم القيمة
+# filename=10-93
+1-3	ولقد	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	ل	_	PART	EMPH	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+3	قد	قد	PART	CERT	_	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+4-5	بوأنا	_	_	_	_	_	_	_	_
+4	بوأ	بوأ	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+5	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+6	بني	بنى	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	_	_	OTH=بنى|TOOL=QA|TYPE=STEM|WID=3
+7	إسرائيل	إسرائيل	PROPN	PN	Case=Gen	0	_	_	OTH=إسرءيل|TOOL=QA|TYPE=STEM|WID=4
+8	مبوأ	مبوأ	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Voice=Pass	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+9	صدق	صدق	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+10-13	ورزقناهم	_	_	_	_	_	_	_	_
+10	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=7
+11	رزق	رزق	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+12	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	OTH=ن|TOOL=QA|TYPE=SUFFIX|WID=7
+13	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=7
+
+# sent_id = 2047
+# text = فيما كانوا فيه يختلفون
+1-2	فيما	_	_	_	_	_	_	_	_
+1	في	فى	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=21
+2	ما	ما	PRON	REL	_	0	_	_	TOOL=QA|TYPE=STEM|WID=21
+3-4	كانوا	_	_	_	_	_	_	_	_
+3	كان	كان	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=22
+4	وا	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	OTH=وا|TOOL=QA|TYPE=SUFFIX|WID=22
+5-6	فيه	_	_	_	_	_	_	_	_
+5	في	فى	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=23
+6	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=23
+7-8	يختلفون	_	_	_	_	_	_	_	_
+7	يختلف	اختلف	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=24
+8	ون	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=24
+
+# sent_id = 2049
+# text = من الممترين
+1	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=21
+2-3	الممترين	_	_	_	_	_	_	_	_
+2	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=22
+3	ممترين	ممترين	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=22
+
+# newdoc id=15
+# sent_id = 2503
+# text = وأرسلنا الريح لواقح فأنزلنا من السماء ماء فأسقينكموه وما أنتم له بخزنين
+# filename=15-22
+1-3	وأرسلنا	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	أرسل	أرسل	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+3	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=1
+4-5	الرياح	_	_	_	_	_	_	_	_
+4	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=2
+5	رياح	ريح	NOUN	N	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	0	_	_	OTH=ريح|TOOL=QA|TYPE=STEM|WID=2
+6	لواقح	لوقح	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	0	_	_	OTH=لوقح|TOOL=QA|TYPE=STEM|WID=3
+7-9	فأنزلنا	_	_	_	_	_	_	_	_
+7	ف	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=4
+8	أنزل	أنزل	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+9	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=4
+10	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+11-12	السماء	_	_	_	_	_	_	_	_
+11	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=6
+12	سماء	سما^ء	NOUN	N	Case=Gen|Definite=Def|Gender=Fem	0	_	_	OTH=سماء|TOOL=QA|TYPE=STEM|WID=6
+13	ماء	ما^ء	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc	0	_	_	OTH=ماء|TOOL=QA|TYPE=STEM|WID=7
+14-18	فأسقيناكموه	_	_	_	_	_	_	_	_
+14	ف	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=8
+15	أسقي	أسقي	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=8
+16	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	OTH=ن|TOOL=QA|TYPE=SUFFIX|WID=8
+17	كمو	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=8
+18	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=8
+19-20	وما	_	_	_	_	_	_	_	_
+19	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=9
+20	ما	ما	PART	NEG	_	0	_	_	OTH=ما|TOOL=QA|TYPE=STEM|WID=9
+21	أنتم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=STEM|WID=10
+22-23	له	_	_	_	_	_	_	_	_
+22	ل	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=11
+23	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	OTH=ه|TOOL=QA|TYPE=STEM|WID=11
+24-25	بخازنين	_	_	_	_	_	_	_	_
+24	ب	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=12
+25	خازنين	خزنين	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Voice=Act	0	_	_	OTH=خزنين|TOOL=QA|TYPE=STEM|WID=12
+
+# newdoc id=15
+# sent_id = 2508
+# text = والجان خلقنه من قبل من نار السموم
+# filename=15-27
+1-3	والجان	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=1
+3	جان	جا^ن	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Voice=Act	0	_	_	OTH=جان|TOOL=QA|TYPE=STEM|WID=1
+4-6	خلقناه	_	_	_	_	_	_	_	_
+4	خلق	خلق	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+5	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	OTH=ن|TOOL=QA|TYPE=SUFFIX|WID=2
+6	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+7	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+8	قبل	قبل	NOUN	N	Case=Gen|Definite=Def	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+9	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+10	نار	نار	NOUN	N	Case=Gen|Definite=Def|Gender=Fem	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+11-12	السموم	_	_	_	_	_	_	_	_
+11	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=7
+12	سموم	سموم	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+
+# newdoc id=15
+# sent_id = 2514
+# text = قال لم أكن لأسجد لبشر خلقته من صلصال من حمإ مسنون
+# filename=15-33
+1	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2	لم	لم	PART	NEG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+3	أكن	كان	VERB	V	Aspect=Imp|Mood=Jus|Number=Sing|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+4-5	لأسجد	_	_	_	_	_	_	_	_
+4	ل	_	PART	PRP	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=4
+5	أسجد	سجد	VERB	V	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+6-7	لبشر	_	_	_	_	_	_	_	_
+6	ل	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=5
+7	بشر	بشر	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+8-10	خلقته	_	_	_	_	_	_	_	_
+8	خلق	خلق	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+9	ت	_	PRON	PRON	Gender=Masc|Number=Sing|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=6
+10	ه	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	0	_	_	OTH=ه|TOOL=QA|TYPE=SUFFIX|WID=6
+11	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+12	صلصال	صلصل	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc	0	_	_	OTH=صلصل|TOOL=QA|TYPE=STEM|WID=8
+13	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+14	حمإ	حمإ	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=10
+15	مسنون	مسنون	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Voice=Pass	0	_	_	TOOL=QA|TYPE=STEM|WID=11
+
+# newdoc id=15
+# sent_id = 2522
+# text = قال هذا صراط على مستقيم
+# filename=15-41
+1	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2	هذا	هذا	PRON	DEM	Gender=Masc|Number=Sing	0	_	_	OTH=هذا|TOOL=QA|TYPE=STEM|WID=2
+3	صراط	صرط	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc	0	_	_	OTH=صرط|TOOL=QA|TYPE=STEM|WID=3
+4-5	علي	_	_	_	_	_	_	_	_
+4	علي	على	ADP	P	_	0	_	_	OTH=على|TOOL=QA|TYPE=STEM|WID=4
+5	_	_	PRON	PRON	Number=Sing|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=4
+6	مستقيم	مستقيم	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+
+# newdoc id=15
+# sent_id = 2528
+# text = ونزعنا ما في صدورهم من غل إخوانا على سرر متقابلين
+# filename=15-47
+1-3	ونزعنا	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	نزع	نزع	VERB	V	Aspect=Perf|Number=Plur|Person=1|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+3	نا	_	PRON	PRON	Number=Plur|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=1
+4	ما	ما	PRON	REL	_	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+5	في	فى	ADP	P	_	0	_	_	OTH=فى|TOOL=QA|TYPE=STEM|WID=3
+6-7	صدورهم	_	_	_	_	_	_	_	_
+6	صدور	صدر	NOUN	N	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+7	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=4
+8	من	من	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+9	غل	غل	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+10	إخوانا	أخ	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	0	_	_	OTH=إخونا|TOOL=QA|TYPE=STEM|WID=7
+11	على	على	ADP	P	_	0	_	_	OTH=على|TOOL=QA|TYPE=STEM|WID=8
+12	سرر	سرر	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	0	_	_	TOOL=QA|TYPE=STEM|WID=9
+13	متقابلين	متقبلين	NOUN	N	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Voice=Act	0	_	_	OTH=متقبلين|TOOL=QA|TYPE=STEM|WID=10
+
+# newdoc id=15
+# sent_id = 2532
+# text = ونبئهم عن ضيف إبراهيم
+# filename=15-51
+1-3	ونبئهم	_	_	_	_	_	_	_	_
+1	و	_	CCONJ	CONJ	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=1
+2	نبئ	نبأ	VERB	V	Aspect=Impv|Gender=Masc|Number=Sing|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+3	هم	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=1
+4	عن	عن	ADP	P	_	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+5	ضيف	ضيف	NOUN	N	Case=Gen|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=3
+6	إبراهيم	إبراهيم	PROPN	PN	Case=Gen|Gender=Masc	0	_	_	OTH=إبرهيم|TOOL=QA|TYPE=STEM|WID=4
+
+# newdoc id=15
+# sent_id = 2535
+# text = قال أبشرتمونى على أن مسنى الكبر فبم تبشرون
+# filename=15-54
+1	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2-5	أبشرتموني	_	_	_	_	_	_	_	_
+2	أ	_	PART	INTG	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=2
+3	بشر	بشر	VERB	V	Aspect=Perf|Gender=Masc|Number=Plur|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+4	تمو	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=2
+5	ني	_	PRON	PRON	Number=Sing|Person=1	0	_	_	OTH=نى|TOOL=QA|TYPE=SUFFIX|WID=2
+6	على	على	ADP	P	_	0	_	_	OTH=على|TOOL=QA|TYPE=STEM|WID=3
+7	أن	أن	SCONJ	SUB	_	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+8-9	مسني	_	_	_	_	_	_	_	_
+8	مس	مس	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+9	ني	_	PRON	PRON	Number=Sing|Person=1	0	_	_	OTH=نى|TOOL=QA|TYPE=SUFFIX|WID=5
+10-11	الكبر	_	_	_	_	_	_	_	_
+10	ال	_	DET	DET	_	0	_	_	OTH=ال|TOOL=QA|TYPE=PREFIX|WID=6
+11	كبر	كبر	NOUN	N	Case=Nom|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+12-14	فبم	_	_	_	_	_	_	_	_
+12	ف	_	PART	REM	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=7
+13	ب	_	ADP	P	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=7
+14	م	ما	PART	INTG	_	0	_	_	TOOL=QA|TYPE=STEM|WID=7
+15-16	تبشرون	_	_	_	_	_	_	_	_
+15	تبشر	بشر	VERB	V	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=8
+16	ون	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=8
+
+# newdoc id=15
+# sent_id = 2549
+# text = قال إن هؤلاء ضيفى فلا تفضحون
+# filename=15-68
+1	قال	قال	VERB	V	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=1
+2	إن	إن	PART	ACC	_	0	_	_	TOOL=QA|TYPE=STEM|WID=2
+3	هؤلاء	هذا	PRON	DEM	Number=Plur	0	_	_	OTH=هؤلاء|TOOL=QA|TYPE=STEM|WID=3
+4-5	ضيفي	_	_	_	_	_	_	_	_
+4	ضيف	ضيف	NOUN	N	Case=Nom|Definite=Def|Gender=Masc	0	_	_	TOOL=QA|TYPE=STEM|WID=4
+5	ي	_	PRON	PRON	Number=Sing|Person=1	0	_	_	OTH=ى|TOOL=QA|TYPE=SUFFIX|WID=4
+6-7	فلا	_	_	_	_	_	_	_	_
+6	ف	_	PART	REM	_	0	_	_	TOOL=QA|TYPE=PREFIX|WID=5
+7	لا	لا	PART	PRO	_	0	_	_	TOOL=QA|TYPE=STEM|WID=5
+8-10	تفضحون	_	_	_	_	_	_	_	_
+8	تفضح	تفضح	VERB	V	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=2|Voice=Act	0	_	_	TOOL=QA|TYPE=STEM|WID=6
+9	و	_	PRON	PRON	Gender=Masc|Number=Plur|Person=2	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=6
+10	ن	_	PRON	PRON	Number=Sing|Person=1	0	_	_	TOOL=QA|TYPE=SUFFIX|WID=6
+
